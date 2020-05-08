@@ -1,0 +1,42 @@
+{
+    "default": {
+        "title": "Dél-Európa projekt: termékek",
+        "file": "default.html",
+        "type": "text"
+    },
+    "gorogorszag": {
+        "title": "Görögország",
+        "file": "gorogorszag.fmd",
+        "type": "formatted"
+    },
+    "olaszorszag": {
+        "title": "Olaszország",
+        "file": "olaszorszag.fmd",
+        "type": "formatted"
+    },
+    "spanyolorszag": {
+        "title": "Spanyolország",
+        "file": "spanyolorszag.fmd",
+        "type": "formatted"
+    },
+    "torokorszag": {
+        "title": "Törökország",
+        "file": "torokorszag.fmd",
+        "type": "formatted"
+    },
+    "plakat": {
+        "title": "Plakát",
+        "file": "plakat.html",
+        "type": "text"
+    },
+    "forrasok": {
+        "title": "Források",
+        "file": "forrasok.fmd",
+        "type": "formatted"
+    },
+    "szerbia": {
+        "title": "Szerbia",
+        "file": "szerbia.fmd",
+        "type": "formatted"
+    }
+}
